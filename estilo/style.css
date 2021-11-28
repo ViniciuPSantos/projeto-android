@@ -27,7 +27,7 @@
     padding: 0px;
 }
 body{
-    background-color:#CEB3E6 ;
+    background-color:var(--cor0) ;
     font-family: var(--fonte-padrão);
 }
 
@@ -191,7 +191,7 @@ aside > h3{
 }
 
 footer{
-    background-color: #3C611D;
+    background-color: var(--cor4) ;
     color: white;
     text-align: center;
     font-size: 0.8em;
